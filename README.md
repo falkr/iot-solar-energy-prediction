@@ -11,16 +11,16 @@ The author's copy is available from their [homepage](http://folk.ntnu.no/kraemer
 
 Please use the following information when citing the work or using the data:
 
-  @article{Kraemer.2020, 
-  title = {{Operationalizing Solar Energy Predictions for Sustainable, Autonomous IoT Device Management}}, 
-  author = {Kraemer, Frank Alexander and Palma, David and Braten, Anders Eivind and Ammar, Doreid}, 
-  journal = {IEEE Internet of Things Journal}, 
-  doi = {10.1109/jiot.2020.3002330}, 
-  pages = {11803--11814}, 
-  number = {12}, 
-  volume = {7}, 
-  year = {2020},
-  }
+    @article{Kraemer.2020, 
+    title = {{Operationalizing Solar Energy Predictions for Sustainable, Autonomous IoT Device Management}}, 
+    author = {Kraemer, Frank Alexander and Palma, David and Braten, Anders Eivind and Ammar, Doreid}, 
+    journal = {IEEE Internet of Things Journal}, 
+    doi = {10.1109/jiot.2020.3002330}, 
+    pages = {11803--11814}, 
+    number = {12}, 
+    volume = {7}, 
+    year = {2020},
+    }
 
 ## Data
 

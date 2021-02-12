@@ -24,7 +24,7 @@ Please use the following information when citing the work or using the data:
 
 ## Data
 
-The full data set with samples every 60 seconds is available [here](http://folk.ntnu.no/kraemer/data/iot-solar-energy-prediction/solar_0001.csv).
+The full data set with samples every 60 seconds is available [here](http://folk.ntnu.no/kraemer/data/iot-solar-energy-prediction/solar_0001.csv). (ca. 204 MB)
 
 
 ## License
